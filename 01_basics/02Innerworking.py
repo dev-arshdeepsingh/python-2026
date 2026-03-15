@@ -1,5 +1,5 @@
 #Make sure to not name modules starting with no., Below was 01hello but was giving errors and hence changed to hello.py
-from hello import chai
+from intro import chai
 chai("Ginger tea")
 
 '''
